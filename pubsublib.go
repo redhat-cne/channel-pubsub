@@ -8,6 +8,7 @@ package channelpubsub
 
 import (
 	"sync"
+
 	exports "github.com/test-network-function/ptp-listerner-exports"
 )
 
