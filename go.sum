@@ -1,2 +1,4 @@
 github.com/redhat-cne/sdk-go v0.1.1-0.20221202175356-6d25e1b3c0be h1:BgSMolt/B9i86ae2RpBMvw4tPz8FdKRsKfFPaF6t01I=
 github.com/redhat-cne/sdk-go v0.1.1-0.20221202175356-6d25e1b3c0be/go.mod h1:kKOXU8uyHbpwXCKrjzH4WVLq2/RZ5pchiI2LLvmFi5E=
+github.com/test-network-function/ptp-listener-exports v0.0.2 h1:dq/dX7Ki6dBUvjPUtJ8y1ueGMZkF7TbToxaAG6E7Ico=
+github.com/test-network-function/ptp-listener-exports v0.0.2/go.mod h1:TR3SWr9R7kjZfrn5rnjtVnpvnPEvBwYXI7+H+4Pnzkk=
