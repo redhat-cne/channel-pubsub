@@ -3,7 +3,7 @@ module github.com/redhat-cne/channel-pubsub
 go 1.19
 
 require (
-	github.com/redhat-cne/ptp-listener-exports v0.0.4
+	github.com/redhat-cne/ptp-listener-exports v0.0.7
 	github.com/sirupsen/logrus v1.8.1
 )
 

@@ -9,13 +9,10 @@ const Port9085 = 9085
 type StoredEvent map[string]interface{}
 
 const (
-	EventTimeStamp   = "eventtimestamp"
-	EventName        = "eventname"
-	EventType        = "eventtype"
-	EventSource      = "eventsource"
-	EventValuesFull  = "eventvaluesfull"
-	EventValuesShort = "eventvaluesshort"
-	SessionUID       = "sessionuid"
+	EventTimeStamp = "eventtimestamp"
+	EventType      = "eventtype"
+	EventSource    = "eventsource"
+	EventValues    = "eventvalues"
 )
 
 type StoredEventValues map[string]interface{}
